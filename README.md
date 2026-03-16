@@ -171,7 +171,7 @@ Estimated Total Size (MB): 0.17
 ### Training loss
 
 ## Original vs Noisy Vs Reconstructed Image
-![Original vs Noisy Vs Reconstructed Image](dl-exp-7 output.png)
+![Original vs Noisy Vs Reconstructed Image](https://github.com/Eesha-1106/DL-Autoencoder/blob/main/dl-exp-7%20output.png)
 
 ## RESULT
 Thus the model has been trained.
